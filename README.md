@@ -9,5 +9,9 @@ O arquivo colunas.csv contém todo o conjunto de palavras existentes dentro da c
 Para executar o programa, basta executar o código "main.py"
 
 
-O código foi primeiro disponibilizado no google colab por meio do link : 
+O código foi primeiro disponibilizado no google colab por meio do link :
+Código funcionando sem o Stemmer de potter
 https://colab.research.google.com/drive/1xbUja9NEhWDhJGG0YtKl--1hpPT_EOeO?usp=sharing
+
+Código funcionando com o Stemmer de potter
+https://colab.research.google.com/drive/1ijpNdnGYKXre79KzcN8DCUYckPDRe2ks?usp=sharing
